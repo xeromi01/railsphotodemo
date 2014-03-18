@@ -1,5 +1,11 @@
 == README
 
+
+THIS IS THE GITHUG CHANGES 
+
+RAILS APP FOR PHOTO GALLEY
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
